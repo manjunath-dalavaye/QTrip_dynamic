@@ -3,7 +3,7 @@
   
 </div>
 <h2>Technologies Used</h2>
-<h3>HTML, CSS, ReactJS, React Hooks, Material-UI, React state and props, Bootstrap</h3>
+<h3>HTML, CSS, JS, Bootstrap</h3>
 <p> -> Developed dynamic web pages using HTML, CSS, and JavaScript, featuring interactive search and multi-select
 filters, as well as image carousels, to elevate user experience. Achieved a 95% satisfaction rate.</p>
 <p> -> Deployed and configured QTrip’s frontend on Netlify, seamlessly integrating search and filter functionalities, optimizing
